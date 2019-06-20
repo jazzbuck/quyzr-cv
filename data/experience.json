@@ -1,20 +1,26 @@
 [
     {
-        "role":"Boss man",
-        "company":"Current Company LTD",
-        "summary":"Led in development of fast paced software teams.",
-        "range":"February 2016 - Present"
+        "role":"Cross-cutting Statistician",
+        "company":"Ministry of Justice",
+        "summary":"Led a new team in developing high-profile data-driven storytelling and economic analysis.",
+        "range":"October 2018 - "
     },
     {
-        "role":"Developer",
-        "company":"Current Company LTD",
-        "summary":"Expedited the synergies of collaborative agile tooling.",
-        "range":"March 2014 - February 2016"
+        "role":"Financial and economic analyst",
+        "company":"Ministry of Defence",
+        "summary":"Maintained a programme of statistical work, led financial and economic analysis for a large change programme.",
+        "range":"October 2017 - September 2018"
     },
     {
-        "role":"Developer",
-        "company":"Previous Company Inc.",
-        "summary":"Implemented continuous devops pipelines automationing",
-        "range":"February 2013 - March 2014"
+        "role":"Founder, Producer and General Manager",
+        "company":"Leoe & Hyde.",
+        "summary":"Led an 18 strong opera company, operating on an £80k budget, across 12 locations and 60 performances.",
+        "range":"December 2016 - Feburary 2018"
+    }
+    {
+	"role":"University Drama Officer",
+	"company":"University of Oxford",
+	"summary":"Managed a wide array of stakeholders to deliver world class student drama services.",
+	"range":"September 2016 - August 2017"
     }
 ]

@@ -1,17 +1,17 @@
 [
   {
-      "grouping":"Architecture",
-      "skills":[ "IP Networking","DNS","Firewalls","Load Balancing","Microservices","RESTful APIs","SaaS/PaaS/IaaS"]
+      "grouping":"Statistics and modelling",
+      "skills":[ ""]
   },{
       "grouping":"Languages, Operating Systems & Tools",
       "skills":[ "Java","Python","git","subversion","linux","bash","php","jquery","javascript"]
   },
   {
-      "grouping":"Platform Development & Administration",
+      "grouping":"Writing and drafting",
       "skills":[ "Atlassian","Bamboo","Bitbucket","NGINX","MySQL","Wordpress"]
   },
   {
-    "grouping":"Containers & Cloud",
+    "grouping":"Leadership",
       "skills":[
           {"name":"BOSH","link":"https://bosh.io"},
           {"name":"Docker","link":"https://docker.com"},
