@@ -1,0 +1,35 @@
+baseURL = "http://quzyr.com"
+languageCode = "en-us"
+title = "Alexander Newton"
+theme = "resume"
+
+[params]
+    firstName = "Alexander"
+    lastName = "Newton"
+    address = "London, UK"
+    phone = "+44 7807 917 134"
+    contactNote = "Data Scientist and Statistician" #used in QR code only
+    profileImage = "cvimage.jpg"
+    email = "fnsubmit@gmail.com"
+    description = "ok"
+    favicon = "images/favicon.ico"
+
+    # what sections to display.  Setting to false disables navigation and section.
+    showSkills = true
+    showProjects = true
+    showOpenSource = false
+    showPublications = true
+    showExperience = true
+    showEducation = true
+    showQr = false
+
+    # do you want to show git hash on page footer and link to repo? Add commit URl for repo here.
+    gitCommitPrefix = "https://github.com/YOURNAME/REPONAME/commit/"
+
+
+[[params.handles]]
+    name = "LinkedIn"
+    link = "https://www.linkedin.com/in/alexander-newton-66725810b/"
+
+[outputs] #only required for search
+    home = ["HTML", "JSON"]
