@@ -1,7 +1,7 @@
-baseURL = "http://quzyr.com"
+baseURL = "https://cv.quzyr.com"
 languageCode = "en-us"
 title = "Alexander Newton"
-theme = "resume"
+theme = "hugo-resume"
 
 [params]
     firstName = "Alexander"
