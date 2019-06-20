@@ -3,8 +3,8 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <title>Tags</title>
-  <meta property="og:title" content="Tags" />
+  <title>Search Results</title>
+  <meta property="og:title" content="Search Results" />
   <meta property="og:image" content="https://cv.quzyr.com/cvimage.jpg" />
   <meta name="description" content="ok">
   <meta property="og:description" content="ok" />
@@ -75,37 +75,23 @@
   <div class="container-fluid p-0">
     
 <section class="resume-section p-3 p-lg-5 d-flex flex-column">
-  <div class="my-auto" id="projects-content">
-
-  <ul>
-    
-        <li>
-           <a href="https://cv.quzyr.com/tags/ci/cd-pipelines/">CI/CD pipelines</a>
-       </li>
-    
-        <li>
-           <a href="https://cv.quzyr.com/tags/continuous-delivery/">Continuous Delivery</a>
-       </li>
-    
-        <li>
-           <a href="https://cv.quzyr.com/tags/continuous-integration/">Continuous Integration</a>
-       </li>
-    
-        <li>
-           <a href="https://cv.quzyr.com/tags/culture/">Culture</a>
-       </li>
-    
-        <li>
-           <a href="https://cv.quzyr.com/tags/devops/">DevOps</a>
-       </li>
-    
-        <li>
-           <a href="https://cv.quzyr.com/tags/agile/">agile</a>
-       </li>
-    
-  </ul>
+  <div class="my-auto" >
+    <form action="https://cv.quzyr.com/search/">
+      <input id="search-query" name="s"/>
+    </form>
+    <div id="search-results">
+     <h3>Matching pages</h3>
+    </div>
   </div>
-  </section>
+</section>
+<script id="search-result-template" type="text/x-js-template">
+    <div id="summary-${key}">
+      <h4><a href="${link}">${title}</a></h4>
+      <p>${snippet}</p>
+      ${ isset tags }<p>Tags: ${tags}</p>${ end }
+      ${ isset categories }<p>Categories: ${categories}</p>${ end }
+    </div>
+</script>
 
 
     <span style="color: #999999; font-size: 60%;">Nifty <a href="https://codepen.io/wbeeftink/pen/dIaDH">tech tag lists</a> from <a class="pen-owner-link" href="https://codepen.io/wbeeftink">Wouter Beeftink</a> </span>
@@ -128,7 +114,9 @@
     gtag('config', '');
   </script>
   
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.0/fuse.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js"></script>
+<script src="https://cv.quzyr.com/js/search.js"></script>
 
-  
 </body>
 </html>

@@ -6,9 +6,64 @@
     <description>Recent content in Tags on Alexander Newton</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Tue, 08 Nov 2016 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cv.quzyr.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CI/CD pipelines</title>
+      <link>https://cv.quzyr.com/tags/ci/cd-pipelines/</link>
+      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://cv.quzyr.com/tags/ci/cd-pipelines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Continuous Delivery</title>
+      <link>https://cv.quzyr.com/tags/continuous-delivery/</link>
+      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://cv.quzyr.com/tags/continuous-delivery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Continuous Integration</title>
+      <link>https://cv.quzyr.com/tags/continuous-integration/</link>
+      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://cv.quzyr.com/tags/continuous-integration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Culture</title>
+      <link>https://cv.quzyr.com/tags/culture/</link>
+      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://cv.quzyr.com/tags/culture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DevOps</title>
+      <link>https://cv.quzyr.com/tags/devops/</link>
+      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://cv.quzyr.com/tags/devops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>agile</title>
+      <link>https://cv.quzyr.com/tags/agile/</link>
+      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://cv.quzyr.com/tags/agile/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
