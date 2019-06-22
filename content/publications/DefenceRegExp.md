@@ -1,5 +1,5 @@
 ---
-title: "Defence in Numbers"
+title: "MOD Regional Expenditure"
 date: 2018-03-01
 pubtype: "Publication"
 featured: true
