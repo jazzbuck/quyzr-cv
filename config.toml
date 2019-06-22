@@ -10,7 +10,7 @@ theme = "hugo-resume"
     phone = "+44 7807 917 134"
     contactNote = "Data Scientist and Statistician" #used in QR code only
     profileImage = "cvimage.jpg"
-    email = "fnsubmit@gmail.com"
+    email = "enterleft@exitright.co.uk"
     description = "fast stream statistician, former opera producer, currently working for the ministry of justice"
     favicon = "images/favicon.ico"
 
