@@ -1,6 +1,6 @@
 ---
 title: "Defence in Numbers"
-date: 2018-03-0103-0103-01
+date: 2018-03-01
 pubtype: "Publication"
 featured: true
 description: "This is a national statistics bulletin, using a labour model to apportion MOD expenditure to NUTS regions of the UK."
