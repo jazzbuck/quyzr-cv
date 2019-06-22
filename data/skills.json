@@ -1,23 +1,18 @@
 [
   {
       "grouping":"Statistics and modelling",
-      "skills":[ ""]
-  },{
+      "skills":[ "Data analysis","Data cleaning","Regression","Random Forest / Boosted Models","MCMC","Uncertainty analysis" ]
+  },
+  {
       "grouping":"Languages, Operating Systems & Tools",
-      "skills":[ "Java","Python","git","subversion","linux","bash","php","jquery","javascript"]
+      "skills":[ "Python","git","linux","bash","R","AWS" ]
   },
   {
       "grouping":"Writing and drafting",
-      "skills":[ "Atlassian","Bamboo","Bitbucket","NGINX","MySQL","Wordpress"]
+      "skills":[ "Report writing","Data visualisation","Interactive visualisation","Briefing"]
   },
   {
-    "grouping":"Leadership",
-      "skills":[
-          {"name":"BOSH","link":"https://bosh.io"},
-          {"name":"Docker","link":"https://docker.com"},
-          {"name":"AWS","link":"https://aws.amazon.com"},
-          {"name":"Google Cloud","link":"https://cloud.google.com"},
-          {"name":"Linux","link":"https://bosh.io"}
-      ]
+      "grouping":"Leadership",
+      "skills":["Presenting","Team leadership","Project management","Stakeholder management","Line management"]
   }
 ]
