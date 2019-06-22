@@ -9,4 +9,8 @@ outputs:
 - rss
 - json
 ---
-<p>fast stream statistician, former opera producer, currently working for the ministry of justice</p>
+<p>Fast stream statistician, former opera producer, currently working for the Ministry of Justice.</p>
+
+<p>I currently focus on informing decision-makers in government with new economic models and data-driven narratives. I lead the Assistant Statisticians' Committee with a particular focus on improving learning & development opportunities with a view to preparing government for DataOps.</p>
+
+<p>Interested in economic research, particularly focussed on long-term sustainability, risk management, information asymmetry, normative uncertainty, and non-expected-utility-maximising behaviour.</p>
