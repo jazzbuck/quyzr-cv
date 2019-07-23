@@ -15,4 +15,4 @@ outputs:
 
 <p>I currently focus on informing decision-makers in government with new economic models and data-driven narratives. I lead the Assistant Statisticians' Committee with a particular aim to improve learning & development opportunities with a view to preparing government for DataOps. I act as keyholder for analysis at the Ministry of Justice, which requires me to evaluate models which support business cases.</p>
 
-<p>Interested in economic research, particularly focussed on long-term sustainability, risk management, network science, information asymmetry, normative uncertainty, and non-expected-utility-maximising behaviour.</p>
+<p>Interested in economic research, particularly focussed on long-term sustainability, risk management, network science, information asymmetry, normative uncertainty, and bounded rationality behaviour.</p>

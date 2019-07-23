@@ -4,7 +4,7 @@ date: 2019-07-18
 pubtype: "Publication"
 featured: true
 description: "This is a government economic research report which uses the Home Office ESCC report to estimate the cost of reoffending."
-tags: ["Research report","Report","Economics","Data visualisation","Stakeholder management","Project management","Reoffending]
+tags: ["Research report","Report","Economics","Data visualisation","Stakeholder management","Project management","Reoffending"]
 image: ""
 link: "https://www.gov.uk/government/publications/economic-and-social-costs-of-reoffending"
 fact: ""
