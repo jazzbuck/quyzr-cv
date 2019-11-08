@@ -11,7 +11,7 @@ theme = "hugo-resume"
     contactNote = "Data Scientist and Statistician" #used in QR code only
     profileImage = "cvimage.jpg"
     email = "enterleft@exitright.co.uk"
-    description = "fast stream statistician, former opera producer, currently working for the ministry of justice"
+    description = "Good Practice Data Scientist, former opera producer, currently working for the Office for National Statsitics"
     favicon = "images/favicon.ico"
 
     # what sections to display.  Setting to false disables navigation and section.

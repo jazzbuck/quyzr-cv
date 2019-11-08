@@ -1,9 +1,15 @@
-[
+[  
+    {
+        "role":"Good Practice Data Scientist",
+        "company":"Office for National Statistics",
+        "summary":"Developed a new function to understand what good data science practice looks like in government, and spread it.",
+        "range":"October 2019 - "
+    },
     {
         "role":"Cross-cutting Statistician",
         "company":"Ministry of Justice",
         "summary":"Led a new team in developing high-profile data-driven storytelling and economic analysis.",
-        "range":"October 2018 - "
+        "range":"October 2018 - October 2019"
     },
     {
         "role":"Financial and Economic Analyst",
